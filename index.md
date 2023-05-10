@@ -11,7 +11,7 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 [link do google](http://www.google.com.br)
 
-![imagem](github-button.png)
+![imagem](assets/image/github-button.png)
 
 # Header 1
 
