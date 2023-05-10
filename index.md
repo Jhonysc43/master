@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Que bom te ver por aqui, temos ótimos templates que ajudaram a impulsionar o seu negócio.
 
-[Link to another page](./another-page.html).
+[Clique aqui e conheça nosso portfólio](./another-page.html).
 
 There should be whitespace between paragraphs.
 
