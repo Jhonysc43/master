@@ -6,12 +6,10 @@ layout: default
 
 [Clique aqui e conheça nosso portfólio](./another-page.html).
 
-There should be whitespace between paragraphs.
+<!--There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-[link do google](http://www.google.com.br)
-
-![imagem](assets/image/github-button.png)
+-->
 
 # Sobre o desenvolvedor
 
