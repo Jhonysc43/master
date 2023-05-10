@@ -28,11 +28,11 @@ Olá! Meu nome é Jhonatan Santos e sou um programador apaixonado por criar apli
 ## Valores:
 
 >1. **Inovação:** Buscamos constantemente soluções inovadoras e criativas, explorando as últimas tendências e tecnologias para oferecer produtos únicos e de vanguarda.
-2. **Qualidade:** Comprometemo-nos com a excelência em todos os aspectos do nosso trabalho, garantindo que cada projeto seja desenvolvido com altos padrões de qualidade e precisão.
-3. **Colaboração:** Valorizamos a parceria e o trabalho em equipe, colaborando estreitamente com nossos clientes para compreender suas necessidades e alcançar resultados excepcionais juntos.
-4. **Experiência do usuário:** Colocamos os usuários em primeiro lugar, focando em criar experiências digitais envolventes, intuitivas e agradáveis, que atendam às necessidades e expectativas dos usuários finais.
-5. **Compromisso:** Estamos comprometidos com a satisfação de nossos clientes, cumprindo prazos, comunicando-nos de forma transparente e oferecendo suporte contínuo para garantir sua plena satisfação.
-6. **Ética:** Agimos com integridade e ética em todos os aspectos do nosso trabalho, mantendo a confidencialidade das informações dos clientes e agindo de forma responsável e profissional.
+>2. **Qualidade:** Comprometemo-nos com a excelência em todos os aspectos do nosso trabalho, garantindo que cada projeto seja desenvolvido com altos padrões de qualidade e precisão.
+>3. **Colaboração:** Valorizamos a parceria e o trabalho em equipe, colaborando estreitamente com nossos clientes para compreender suas necessidades e alcançar resultados excepcionais juntos.
+>4. **Experiência do usuário:** Colocamos os usuários em primeiro lugar, focando em criar experiências digitais envolventes, intuitivas e agradáveis, que atendam às necessidades e expectativas dos usuários finais.
+>5. **Compromisso:** Estamos comprometidos com a satisfação de nossos clientes, cumprindo prazos, comunicando-nos de forma transparente e oferecendo suporte contínuo para garantir sua plena satisfação.
+>6. **Ética:** Agimos com integridade e ética em todos os aspectos do nosso trabalho, mantendo a confidencialidade das informações dos clientes e agindo de forma responsável e profissional.
 
 ```ruby
 # Ruby code with syntax highlighting
