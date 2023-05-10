@@ -34,6 +34,7 @@ Olá! Meu nome é Jhonatan Santos e sou um programador apaixonado por criar apli
 >5. **Compromisso:** Estamos comprometidos com a satisfação de nossos clientes, cumprindo prazos, comunicando-nos de forma transparente e oferecendo suporte contínuo para garantir sua plena satisfação.
 >6. **Ética:** Agimos com integridade e ética em todos os aspectos do nosso trabalho, mantendo a confidencialidade das informações dos clientes e agindo de forma responsável e profissional.
 
+<!--
 ```ruby
 # Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|
@@ -125,3 +126,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
