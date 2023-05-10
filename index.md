@@ -11,7 +11,7 @@ layout: default
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 -->
 
-# Sobre o desenvolvedor
+># Sobre o desenvolvedor
 
 Olá! Meu nome é Jhonatan Santos e sou um programador apaixonado por criar aplicativos e desenvolver websites. Com conhecimentos sólidos em linguagens como CSS, JavaScript e App Inventor, estou constantemente explorando novas possibilidades para proporcionar experiências digitais envolventes. Acredito na combinação perfeita entre design e funcionalidade, buscando criar soluções que sejam visualmente atraentes e intuitivas para os usuários. Sempre em busca de aprimoramento, mantenho-me atualizado sobre as tendências e avanços tecnológicos para oferecer produtos de alta qualidade. Estou entusiasmado em transformar ideias em realidade e contribuir para o mundo digital através da minha paixão pela programação.
 
