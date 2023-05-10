@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Que bom te ver por aqui, temos ótimos templates que ajudaram a impulsionar o seu negócio.
+# Que bom te ver por aqui, temos diversos templates que ajudarão a impulsionar o seu negócio.
 
 [Clique aqui e conheça nosso portfólio](./another-page.html).
 
